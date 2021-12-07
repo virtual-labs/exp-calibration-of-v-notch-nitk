@@ -26,7 +26,7 @@
         "target": "pretest.html",
         "source": "pretest.json",
         "label": "Self Evaluation",
-        "unit-type": "task",
+        "unit-type": "assessment",
         "content-type": "text"
     },
 
@@ -50,7 +50,7 @@
         "target": "posttest.html",
         "source": "posttest.json",
         "label": "Quiz",
-        "unit-type": "task",
+        "unit-type": "assessment",
         "content-type": "text"
     },
 
