@@ -1,8 +1,4 @@
-<h3><b>Objective: </b></h3>
-
-   <p>To determine the coefficient of discharge of V-notch.</p>
-
-<h3><b>Steps:</b></h3>
+<h3><b>These procedure steps will be followed on the simulator</b></h3>
 
 <ol>
  <li> Open the Calibration of V-notch experiment and click on the next button shown at the bottom right corner.</br>
