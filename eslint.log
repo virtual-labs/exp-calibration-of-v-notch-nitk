@@ -1,0 +1,209 @@
+
+/home/runner/work/exp-calibration-of-v-notch-nitk/exp-calibration-of-v-notch-nitk/experiment/simulation/js/ej.web.all.js
+  10:627614  error  Parsing error: Invalid number
+
+/home/runner/work/exp-calibration-of-v-notch-nitk/exp-calibration-of-v-notch-nitk/experiment/simulation/js/jquery-1.7.1.min.js
+  2:820    warning  Empty block statement                                            no-empty
+  2:877    warning  Empty block statement                                            no-empty
+  2:4720   warning  'b' is defined but never used                                    no-unused-vars
+  2:5126   warning  'd' is defined but never used                                    no-unused-vars
+  2:5302   warning  'd' is defined but never used                                    no-unused-vars
+  2:6027   warning  Empty block statement                                            no-empty
+  2:6428   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:6523   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:6608   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:6658   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:6697   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:10196  warning  Empty block statement                                            no-empty
+  2:11255  warning  'ActiveXObject' is not defined                                   no-undef
+  2:14574  warning  'i' is defined but never used                                    no-unused-vars
+  2:16984  warning  'h' is assigned a value but never used                           no-unused-vars
+  2:17279  warning  'm' is defined but never used                                    no-unused-vars
+  2:17312  warning  'r' is assigned a value but never used                           no-unused-vars
+  2:19399  warning  'g' is defined but never used                                    no-unused-vars
+  2:21309  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:21836  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:24565  warning  'c' is assigned a value but never used                           no-unused-vars
+  2:24675  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:25416  warning  Empty block statement                                            no-empty
+  2:26513  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:26963  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:31862  warning  Unnecessary escape character: \.                                 no-useless-escape
+  2:31999  warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:32015  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:56     warning  'q' is defined but never used                                    no-unused-vars
+  3:3638   warning  't' is defined but never used                                    no-unused-vars
+  3:7367   warning  'g' is assigned a value but never used                           no-unused-vars
+  3:11980  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:12006  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:12031  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:13787  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15016  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15136  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15177  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15227  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15277  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15341  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15388  warning  Unnecessary escape character: \*                                 no-useless-escape
+  3:15390  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15460  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15473  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15491  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15572  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15609  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15639  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:15648  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:15650  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:15970  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:17350  warning  'b' is defined but never used                                    no-unused-vars
+  3:17505  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:20157  warning  'h' is defined but never used                                    no-unused-vars
+  3:20213  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:20288  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  3:20305  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:21442  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:21454  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:23990  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:24003  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:24412  warning  Empty block statement                                            no-empty
+  3:24694  warning  Empty block statement                                            no-empty
+  3:25075  warning  Unnecessary escape character: \=                                 no-useless-escape
+  3:25256  warning  Empty block statement                                            no-empty
+  3:26114  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:26509  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:26511  warning  Unnecessary escape character: \.                                 no-useless-escape
+  3:29597  warning  'd' is defined but never used                                    no-unused-vars
+  3:30269  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:30271  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:5068   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:5076   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:6100   warning  Empty block statement                                            no-empty
+  4:8493   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:8505   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:8697   warning  Unnecessary escape character: \+                                 no-useless-escape
+  4:8699   warning  Unnecessary escape character: \.                                 no-useless-escape
+  4:8701   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:8717   warning  Unnecessary escape character: \/                                 no-useless-escape
+  4:9799   warning  'c' is defined but never used                                    no-unused-vars
+  4:11116  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:11178  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:12065  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:14424  warning  Unnecessary escape character: \=                                 no-useless-escape
+  4:16789  warning  Empty block statement                                            no-empty
+  4:17420  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:17432  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:24520  warning  Empty block statement                                            no-empty
+  4:25630  warning  'e' is assigned a value but never used                           no-unused-vars
+  4:28559  warning  'define' is not defined                                          no-undef
+  4:28571  warning  'define' is not defined                                          no-undef
+  4:28590  warning  'define' is not defined                                          no-undef
+
+/home/runner/work/exp-calibration-of-v-notch-nitk/exp-calibration-of-v-notch-nitk/experiment/simulation/js/jquery-2.1.4.js
+  2:58     warning  'module' is not defined                                                    no-undef
+  2:73     warning  'module' is not defined                                                    no-undef
+  2:6153   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6386   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6836   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7068   warning  Empty block statement                                                      no-empty
+  2:7633   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9517   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11073  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11649  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11687  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12091  warning  Empty block statement                                                      no-empty
+  2:12654  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12966  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:14789  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15027  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15175  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15513  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:16218  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18604  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18693  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18753  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20019  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20594  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20702  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22721  warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:22723  warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:31886  warning  Empty block statement                                                      no-empty
+  3:2951   warning  Empty block statement                                                      no-empty
+  3:14190  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:14317  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:16249  warning  Empty block statement                                                      no-empty
+  3:18965  warning  Move function declaration to function body root                            no-inner-declarations
+  3:25884  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:28247  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:271    warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:2078   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:2522   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:2936   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:5926   warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:5938   warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:6179   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:8661   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:10561  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:14042  warning  Empty block statement                                                      no-empty
+  4:20024  warning  'define' is not defined                                                    no-undef
+  4:20036  warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-calibration-of-v-notch-nitk/exp-calibration-of-v-notch-nitk/experiment/simulation/js/vnotch.js
+   14:3   warning  'textDisplay' is assigned a value but never used  no-unused-vars
+   15:3   warning  'ans' is assigned a value but never used          no-unused-vars
+   16:3   warning  'unit' is assigned a value but never used         no-unused-vars
+   53:10  warning  'isANumber' is defined but never used             no-unused-vars
+   56:10  warning  'checkResult' is defined but never used           no-unused-vars
+  113:9   warning  'simsubscreennum' is not defined                  no-undef
+  122:34  warning  'values' is not defined                           no-undef
+  128:10  warning  'navNext' is defined but never used               no-unused-vars
+  129:8   warning  'temp' is not defined                             no-undef
+  129:18  warning  'temp' is not defined                             no-undef
+  129:29  warning  'temp' is not defined                             no-undef
+  130:40  warning  'temp' is not defined                             no-undef
+  133:3   warning  'simsubscreennum' is not defined                  no-undef
+  134:38  warning  'simsubscreennum' is not defined                  no-undef
+  141:1   warning  '$' is not defined                                no-undef
+  142:7   warning  'simsubscreennum' is not defined                  no-undef
+  146:7   warning  '$' is not defined                                no-undef
+  148:14  warning  'simsubscreennum' is not defined                  no-undef
+  162:17  warning  'myInt' is not defined                            no-undef
+  169:7   warning  'simsubscreennum' is not defined                  no-undef
+  188:14  warning  'simsubscreennum' is not defined                  no-undef
+  208:5   warning  'myInt' is not defined                            no-undef
+  223:14  warning  'simsubscreennum' is not defined                  no-undef
+  230:5   warning  'myInt' is not defined                            no-undef
+  245:14  warning  'simsubscreennum' is not defined                  no-undef
+  252:5   warning  'myInt' is not defined                            no-undef
+  268:14  warning  'simsubscreennum' is not defined                  no-undef
+  277:7   warning  'simsubscreennum' is not defined                  no-undef
+  279:7   warning  'simsubscreennum' is not defined                  no-undef
+  281:14  warning  'simsubscreennum' is not defined                  no-undef
+  286:14  warning  'simsubscreennum' is not defined                  no-undef
+  306:3   warning  'myInt' is not defined                            no-undef
+  355:28  warning  'values' is not defined                           no-undef
+  361:32  warning  'values' is not defined                           no-undef
+  381:56  warning  'values' is not defined                           no-undef
+  388:32  warning  'values' is not defined                           no-undef
+  396:5   warning  'values' is not defined                           no-undef
+  400:5   warning  'values' is not defined                           no-undef
+  406:30  warning  'values' is not defined                           no-undef
+  410:3   warning  '$' is not defined                                no-undef
+  437:16  warning  'values' is not defined                           no-undef
+  437:33  warning  'values' is not defined                           no-undef
+  438:16  warning  'values' is not defined                           no-undef
+  438:33  warning  'values' is not defined                           no-undef
+  439:16  warning  'values' is not defined                           no-undef
+  439:33  warning  'values' is not defined                           no-undef
+  440:16  warning  'values' is not defined                           no-undef
+  440:33  warning  'values' is not defined                           no-undef
+  441:16  warning  'values' is not defined                           no-undef
+  441:33  warning  'values' is not defined                           no-undef
+  442:16  warning  'values' is not defined                           no-undef
+  442:33  warning  'values' is not defined                           no-undef
+  460:16  warning  'values' is not defined                           no-undef
+  460:33  warning  'values' is not defined                           no-undef
+  494:5   warning  'simsubscreennum' is not defined                  no-undef
+
+✖ 197 problems (1 error, 196 warnings)
+  0 errors and 3 warnings potentially fixable with the `--fix` option.
+
